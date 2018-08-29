@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Date;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class SpringJdbcApplication implements CommandLineRunner {
 
     @Autowired
